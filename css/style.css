@@ -1,0 +1,15 @@
+.jumbotron {
+  background-image: url("../images/1003810.jpg");
+  background-size: cover;
+  
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.jumbotrontext {
+  color:White;
+/*   -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;*/
+}
